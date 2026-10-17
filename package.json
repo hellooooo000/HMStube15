@@ -1,0 +1,8 @@
+{
+  "name": "tabproxy",
+  "version": "1.0.0",
+  "description": "Simple web proxy with a multi-tab browser UI",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
